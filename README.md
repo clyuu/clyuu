@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clyuu&label=Profile%20views&color=0e75b6&style=flat" alt="clyuu" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
+- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT,Python**
 
 - 💬 Ask me about **Android , MEARN**
 
