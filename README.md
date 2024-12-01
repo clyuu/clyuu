@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clyuu&label=Profile%20views&color=0e75b6&style=flat" alt="clyuu" /> </p>
 
-- 🌱 I’m currently learning    **HTML,CSS,JAVA SCRIPT,PHYTHON,SQL,PHP**
+- 🌱 I’m currently learning    **C,C#,HTML,CSS,JAVA SCRIPT,PHYTHON,SQL,PHP,REACT**
 
 - 💬 About me    **Hi, I'm Induwara Hasaranga, a web developer.**
 
