@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clyuu&label=Profile%20views&color=0e75b6&style=flat" alt="clyuu" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=clyuu&label=Profile%20views&color=0e75b6&style=flat](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTdlNDZvZDJqNXRkeHVjMDBuY20zZHNlZDRqMnh4MnVlZTgxZWt0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" alt="clyuu" /> </p>
 
 - 🌱 I’m currently learning    **C,C#,HTML,CSS,JAVA SCRIPT,PHYTHON,SQL,PHP,REACT**
 
