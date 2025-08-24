@@ -143,7 +143,7 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 ### 🐍 Contribution Snake Animation
 
-![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 *Watch the snake eat my contributions!*
 
