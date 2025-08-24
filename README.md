@@ -96,7 +96,15 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=clyuu&theme=flat&no-frame=true&margin-w=15&row=1)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=clyuu&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+### Additional Statistics
+
+<div align="center">
+
+![Total Contributions](https://github-contributor-stats.vercel.app/api?username=clyuu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
