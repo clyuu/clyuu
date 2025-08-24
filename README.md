@@ -95,11 +95,11 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 **Professional Networks:**
 - [LinkedIn](https://www.linkedin.com/in/induwara-hasaranga-a526542b1)
-- [Stack Overflow](https://stackoverflow.com/users/induwara-hasaranga)
+- [Stack Overflow]()
 
 **Social Media:**
 - [Instagram](https://instagram.com/induhasaranga)
-- [Facebook](https://fb.com/induwara-hasaranga)
+- [Facebook]([https://fb.com/induwara-hasaranga](https://web.facebook.com/induwara.hasaranga.281170))
 
 ---
 
