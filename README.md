@@ -107,25 +107,25 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 <div align="center">
 
-**📈 Contribution Statistics**
+**📈 Contribution Timeline**
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clyuu&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
 </div>
 
-### 🔥 Contribution Heatmap
-
 <div align="center">
 
-![Contribution Heatmap](https://ghchart.rshah.org/58a6ff/clyuu)
+### 🏆 GitHub Profile Summary
+
+[![Profile Summary for Induwara](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clyuu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
-### 💻 Coding Activity
-
 <div align="center">
 
-[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=clyuu&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+| **Productive Time** | **Most Used Languages** |
+|:---:|:---:|
+| [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clyuu&theme=github_dark&utc_offset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clyuu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
 </div>
 
