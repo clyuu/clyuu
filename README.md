@@ -49,13 +49,13 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 | **Overall Stats** | **Most Used Languages** |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clyuu&show_icons=true&theme=default&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clyuu&layout=compact&theme=default&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clyuu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clyuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=clyuu&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=clyuu&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff)
 
 </div>
 
@@ -98,7 +98,7 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 **📈 Contribution Statistics**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clyuu&theme=github-compact&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clyuu&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
 </div>
 
@@ -106,7 +106,7 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 <div align="center">
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=clyuu&limit=5&theme=github&combine_all_yearly_contributions=true)
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=clyuu&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
