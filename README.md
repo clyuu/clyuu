@@ -113,6 +113,14 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 </div>
 
+### 🐍 Contribution Snake Animation
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/clyuu/clyuu/output/github-contribution-grid-snake-dark.svg)
+  
+</div>
+
 ### Repository Highlights
 
 <div align="center">
