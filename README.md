@@ -113,12 +113,20 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 </div>
 
-### 🐍 Contribution Snake Animation
+### 🔥 Contribution Heatmap
 
 <div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/clyuu/clyuu/output/github-contribution-grid-snake-dark.svg)
-  
+
+![Contribution Heatmap](https://ghchart.rshah.org/58a6ff/clyuu)
+
+</div>
+
+### 💻 Coding Activity
+
+<div align="center">
+
+[![Coding Activity](https://github-readme-stats.vercel.app/api/wakatime?username=clyuu&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ### Repository Highlights
