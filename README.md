@@ -95,11 +95,11 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 **Professional Networks:**
 - [LinkedIn](https://www.linkedin.com/in/induwara-hasaranga-a526542b1)
-- [Stack Overflow]()
+- [Stack Overflow](https://stackoverflow.com/users/induwara-hasaranga)
 
 **Social Media:**
 - [Instagram](https://instagram.com/induhasaranga)
-- [Facebook](https://web.facebook.com/induwara.hasaranga.281170)
+- [Facebook](https://fb.com/induwara-hasaranga)
 
 ---
 
@@ -134,6 +134,18 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 <div align="center">
 
 ![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=clyuu&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake Animation
+
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+*Watch the snake eat my contributions!*
 
 </div>
 
