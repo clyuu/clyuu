@@ -99,7 +99,7 @@ I am a passionate Software Developer and Web Developer from Sri Lanka, dedicated
 
 **Social Media:**
 - [Instagram](https://instagram.com/induhasaranga)
-- [Facebook]([https://fb.com/induwara-hasaranga](https://web.facebook.com/induwara.hasaranga.281170))
+- [Facebook](https://web.facebook.com/induwara.hasaranga.281170)
 
 ---
 
